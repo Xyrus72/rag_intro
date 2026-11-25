@@ -1,0 +1,196 @@
+Valorant is a free-to-play first-person tactical hero shooter developed and published by Riot Games.
+Players play as one of a set of Agents, characters designed based on several countries and cultures around the world.
+In the main game mode, players are assigned to either the attacking or defending team with each team having five players.
+Agents have unique abilities, each requiring charges, as well as a unique ultimate ability that requires charging through kills, deaths, orbs, or objectives.
+Every player starts each round with a 'classic' pistol and one or more signature ability charges.
+Weapons and ability charges can be purchased using an in-game economic system that awards money based on the outcome of the previous round.
+VALORANT AGENTS AND ABILITIES
+
+DUELISTS
+
+Phoenix
+Blaze: Makes a wall of fire that blocks vision and hurts enemies.
+Hot Hands: Throws a fireball that hurts enemies.
+Curveball: Throws a flash that blinds people who see it.
+Run It Back (Ultimate): Marks a spot. Phoenix returns there if he is defeated or the timer ends.
+
+Jett
+Cloudburst: Throws a small cloud that blocks vision.
+Updraft: Pushes Jett high into the air.
+Tailwind: Lets Jett quickly dash in the direction she is moving.
+Blade Storm (Ultimate): Gives Jett throwing knives that can deal heavy damage.
+
+Raze
+Boom Bot: Sends out a bot that looks for enemies and explodes near them.
+Blast Pack: Throws a pack that can explode and push players away.
+Paint Shells: Throws a grenade that breaks into smaller explosives.
+Showstopper (Ultimate): Fires a powerful rocket.
+
+Reyna
+Leer: Sends out an eye that makes enemies who look at it see less clearly.
+Devour: Uses an enemy’s soul orb to heal Reyna.
+Dismiss: Uses a soul orb to make Reyna briefly untouchable.
+Empress (Ultimate): Makes Reyna faster and improves her fighting ability.
+
+Neon
+Fast Lane: Creates two electric walls that block vision.
+Relay Bolt: Throws a bolt that bounces and stuns nearby players.
+High Gear: Lets Neon run quickly and slide.
+Overdrive (Ultimate): Lets Neon fire a powerful beam of electricity.
+
+Yoru
+Fakeout: Sends out a copy of Yoru that can fool enemies.
+Gatecrash: Sends out a teleport point that Yoru can travel to.
+Blindside: Throws a flash that bounces off a hard surface.
+Dimensional Drift (Ultimate): Lets Yoru move through another dimension for a short time.
+
+Iso
+Undercut: Fires a bolt that makes enemies easier to damage.
+Double Tap: Gives Iso a shield after he shoots an energy orb.
+Contingency: Sends a moving wall forward that blocks bullets.
+Kill Contract (Ultimate): Pulls Iso and one enemy into a small arena to fight.
+
+Waylay
+Saturate: Throws light that slows nearby players.
+Lightspeed: Lets Waylay dash forward.
+Refract: Places a point Waylay can quickly return to.
+Convergent Paths (Ultimate): Sends out a beam that slows enemies and gives Waylay a speed boost.
+
+Hush
+Flow: Places a point Hush can quickly move toward.
+Flashbulb: Throws a flash that blinds players who see it.
+Displacement: Throws an explosive that pulls and stuns nearby players.
+Suspension (Ultimate): Sends out an ability that lifts nearby players into the air.
+
+CONTROLLERS
+
+Brimstone
+Stim Beacon: Gives nearby teammates a boost to movement and weapon speed.
+Incendiary: Fires a grenade that creates a damaging fire area.
+Sky Smoke: Places smoke clouds that block vision.
+Orbital Strike (Ultimate): Calls down a powerful attack on a chosen area.
+
+Viper
+Snake Bite: Creates a pool of damaging acid.
+Poison Cloud: Creates a toxic smoke cloud.
+Toxic Screen: Creates a long wall of toxic gas.
+Viper’s Pit (Ultimate): Creates a large toxic cloud that hides and weakens enemies.
+
+Omen
+Shrouded Step: Teleports Omen a short distance.
+Paranoia: Sends a shadow that makes enemies see less clearly.
+Dark Cover: Places a smoke cloud that blocks vision.
+From the Shadows (Ultimate): Lets Omen try to teleport anywhere on the map.
+
+Astra
+Gravity Well: Pulls players toward a point and makes them easier to damage.
+Nova Pulse: Stuns players near a point.
+Nebula: Creates a smoke cloud that blocks vision.
+Cosmic Divide (Ultimate): Creates a huge wall that blocks bullets and sound.
+
+Harbor
+Storm Surge: Creates a water blast that slows and limits enemies’ vision.
+High Tide: Creates a wall of water that blocks vision.
+Cove: Creates a smoke that can also block bullets for a short time.
+Reckoning (Ultimate): Sends a wave of water forward to slow and limit enemies’ vision.
+
+Clove
+Pick-me-up: Gives Clove a speed boost and temporary health after an enemy Clove hurt is defeated.
+Meddle: Throws a blast that temporarily weakens enemies.
+Ruse: Places smoke clouds that block vision. Clove can use it after being defeated.
+Not Dead Yet (Ultimate): Lets Clove return after being defeated, but Clove must help defeat an enemy soon after.
+
+Miks
+M-pulse: Throws a device that can either heal teammates or stun players.
+Harmonize: Gives Miks and a teammate a boost that refreshes when they get a kill.
+Waveform: Places smoke clouds that block vision.
+Bassquake (Ultimate): Sends out a sound wave that pushes back, slows, and deafens players.
+
+INITIATORS
+
+Sova
+Owl Drone: Controls a drone that can reveal an enemy it hits.
+Shock Bolt: Fires an explosive arrow that hurts nearby enemies.
+Recon Bolt: Fires an arrow that reveals nearby enemies.
+Hunter’s Fury (Ultimate): Fires powerful energy blasts through the map.
+
+Breach
+Aftershock: Sends a damaging blast through a wall.
+Flashpoint: Sends a flash through a wall.
+Fault Line: Sends a ground shake that stuns enemies in a line.
+Rolling Thunder (Ultimate): Sends a large ground wave that stuns and lifts enemies.
+
+Skye
+Trailblazer: Controls an animal that can scout and stun enemies.
+Guiding Light: Sends a hawk that can flash enemies.
+Regrowth: Heals nearby teammates.
+Seekers (Ultimate): Sends creatures that chase nearby enemies.
+
+KAY/O
+FRAG/ment: Throws an explosive that damages enemies.
+FLASH/drive: Throws a flash grenade.
+ZERO/point: Throws a blade that stops enemies from using abilities.
+NULL/cmd (Ultimate): Sends out pulses that stop enemies from using abilities.
+
+Fade
+Prowler: Sends a creature to chase and limit an enemy’s vision.
+Seize: Traps enemies in an area.
+Haunt: Reveals enemies it sees.
+Nightfall (Ultimate): Sends out a wave that tracks, deafens, and weakens enemies.
+
+Gekko
+Mosh Pit: Throws a blob that explodes over a large area.
+Wingman: Sends a creature to stun an enemy or help plant or defuse the Spike.
+Dizzy: Sends a creature that flashes enemies it sees.
+Thrash (Ultimate): Controls a creature that can leap at and hold enemies.
+
+Tejo
+Stealth Drone: Controls a drone that can reveal and stop enemies from using abilities.
+Special Delivery: Throws a grenade that stuns nearby enemies.
+Guided Salvo: Sends missiles to chosen locations.
+Armageddon (Ultimate): Sends a line of explosions across a chosen path.
+
+SENTINELS
+
+Sage
+Barrier Orb: Builds a wall.
+Slow Orb: Creates an area that slows players.
+Healing Orb: Heals Sage or a teammate.
+Resurrection (Ultimate): Brings a defeated teammate back.
+
+Cypher
+Trapwire: Sets a tripwire that can reveal and stun enemies.
+Cyber Cage: Creates a field that blocks vision.
+Spycam: Places a camera that can reveal enemies.
+Neural Theft (Ultimate): Reveals the location of living enemies.
+
+Killjoy
+Nanoswarm: Hides a grenade that releases damaging robots when activated.
+Alarmbot: Sends a bot to find and weaken an enemy.
+Turret: Places a turret that fires at enemies.
+Lockdown (Ultimate): Places a device that holds enemies in a large area.
+
+Chamber
+Trademark: Places a trap that slows enemies.
+Headhunter: Gives Chamber a powerful pistol.
+Rendezvous: Places a point Chamber can teleport to.
+Tour de Force (Ultimate): Gives Chamber a powerful sniper rifle.
+
+Deadlock
+GravNet: Throws a net that slows and forces enemies to crouch.
+Sonic Sensor: Detects sounds and stuns enemies nearby.
+Barrier Mesh: Creates barriers that block players from moving through.
+Annihilation (Ultimate): Traps an enemy in a cocoon that pulls them along.
+
+Vyse
+Razorvine: Creates a damaging area that slows players.
+Shear: Sets a hidden trap that creates a wall behind an enemy.
+Arc Rose: Places a hidden device that can flash enemies.
+Steel Garden (Ultimate): Sends out metal thorns that temporarily disable enemy primary weapons.
+
+Veto
+Interceptor: Destroys certain enemy abilities nearby.
+Chokehold: Traps, deafens, and weakens enemies.
+Crosscut: Places a point Veto can teleport to.
+Evolution (Ultimate): Gives Veto a combat boost and protection from weakening effects.
+.\.venv\Scripts\python.exe code.py
